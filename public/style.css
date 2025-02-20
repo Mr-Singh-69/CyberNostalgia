@@ -1,0 +1,2 @@
+.body { margin: 0; font-family: 'Courier New', monospace; background: black; color: lime; text-align: center; }
+#intro { position: absolute; top: 10px; width: 100%; text-shadow: 2px 2px black; }
